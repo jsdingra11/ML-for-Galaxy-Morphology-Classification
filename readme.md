@@ -1,6 +1,3 @@
-# Galaxy Morphology Classification using Machine Learning
-
-## Overview
 This repository contains a machine learning model for classifying galaxy morphologies based on astronomical image data. The model is trained to distinguish between different types of galaxies, such as spiral, elliptical, and irregular galaxies, with further subclassification where applicable.
 
 ## Features
@@ -27,4 +24,7 @@ cd galaxy-morphology-classification
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
+~ Jashanpreet Singh Dingra
+astrodingra@gmail.com

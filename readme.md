@@ -25,7 +25,7 @@ cd galaxy-morphology-classification
 # Install dependencies
 pip install -r requirements.txt
 ```
-~ Vikramjeet Singh
+~ Vikramjeet Singh \n
 ~ Jashanpreet Singh Dingra
 
 astrodingra@gmail.com

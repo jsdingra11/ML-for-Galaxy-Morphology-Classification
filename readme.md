@@ -19,12 +19,14 @@ Below is an example of the model's classification output:
 To set up the model on your local machine, follow these steps:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/galaxy-morphology-classification.git
+git clone https://github.com/jsdingra/ML-for-Galaxy-Morphology-Classification.git
 cd galaxy-morphology-classification
 
 # Install dependencies
 pip install -r requirements.txt
 ```
+Complete code and model is not provide but can be asked on demand.
+<br>
 ~ Vikramjeet Singh <br>
 ~ Jashanpreet Singh Dingra
 
